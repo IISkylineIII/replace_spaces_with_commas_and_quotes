@@ -18,7 +18,9 @@ print(output_text)
 ``` 
 
 # Example Output
-"example","text","to","test"
+
+"CGCCCCTCTCGGGGGTGTTCAGTAACCGGCCA","GGGCGAGGTATGTGTAAGTGCCAAGGTGCCAG","TAGTACCGAGACCGAAAGAAGTATACAGGCGT","TAGATCAAGTTTCAGGTGCACGTCGGTGAACC","AATCCACCAGCTCCACGTGCAATGTTGGCCTA"
+
 
 # Applications
 * Formatting sequences or lists for insertion into CSV, JSON, or other comma-and-quote based formats.
