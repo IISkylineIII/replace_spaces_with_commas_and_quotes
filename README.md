@@ -24,3 +24,6 @@ print(output_text)
 * Formatting sequences or lists for insertion into CSV, JSON, or other comma-and-quote based formats.
 * Preparing strings for use in scripts or commands that require this specific formatting.
 
+# License
+This project is licensed under the MIT License.
+
